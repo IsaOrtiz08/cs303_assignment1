@@ -15,3 +15,9 @@ If the value is found in the array, function will return the value and the index
 Option 2 will request an index value. If a value larger than the size of the array is input, the function will return an error and abort
 ![pic5](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/87b4db29-7d22-4a32-bef5-28fb45cb350c)
 Otherwise, the program will request an integer to modify the orignal value to. It will then output the original value and the new value.
+![pic6](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/c4d67f9c-0818-4229-bfaf-f6eb45862a42)
+
+Option 3 will request input for an integer to be added to the function. Once input has been received, there will not be any output and the array will automatically include the integer at the end of the series of "actual" values recognized in the array (essentially only nonzero, zeroes are considered empty spaces).
+![pig7](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/83cedc73-9d60-470f-8569-60b93effe1ff)
+If 0 is input, an error will be thrown and the function aborted
+![pic8](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/13ff801c-f4c2-43c8-b3d2-8efcf97415af)
