@@ -81,7 +81,7 @@ void modify_val(int* values, int size, int index) {
 		values[index] = newVal;
 
 		// display the original value using the index and display the new value
-		cout << "Original Value: " << values[index] << endl << "New Value: " << newVal << endl;		
+		cout << "Original Value: " << oldVal << endl << "New Value: " << newVal << endl;		
 	}// output the error to the user and abort the function
 	catch (std::out_of_range& error) {
 		cout << error.what() << endl;
