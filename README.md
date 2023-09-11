@@ -9,6 +9,7 @@ To select an option, type only the number without any extra characters. The exce
 
 Option 1 will request user input for an integer without additional characters. If the value isn't in the array, it will return a statement saying it was not found
 ![pic3](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/f0b025d6-ff03-4958-81f1-39c59d94dd64)
+
 If the value is found in the array, function will return the value and the index it is located in
 ![pic4](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/8111a14e-5381-4d14-866a-46e03c1e11dd)
 
