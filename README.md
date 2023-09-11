@@ -1,6 +1,6 @@
 # cs303_assignment1
 
-The program first intakes the name of a file, must input the name of the file without any extra characters. "data.txt" was utilized for testing of program:
+The program first intakes the name of a file, must input the name of the file without any extra characters. "data.txt" was utilized for testing of program, this program can have a maximum of 150 values in the array unless the size variable is adjusted, and only recognizes nonzero values as "actual" or "real" values in the array:
 ![pic1](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/2d780a1c-cba2-4d37-b0d0-36f4aa273ec3)
 
 After inputing the file name, the menu will appear, automatically reading the file and initializing the array before displaying the menu.
