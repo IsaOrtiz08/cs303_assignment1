@@ -21,3 +21,9 @@ Option 3 will request input for an integer to be added to the function. Once inp
 ![pig7](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/83cedc73-9d60-470f-8569-60b93effe1ff)
 If 0 is input, an error will be thrown and the function aborted
 ![pic8](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/13ff801c-f4c2-43c8-b3d2-8efcf97415af)
+
+Option 4 will request user input for an index value to remove an array value at that index. Once the input is received, there is no output and the array will have removed that integer and shifted all of the next values over to the left.
+![pic9](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/d6724855-9a22-4abe-967b-4eb8a2c44c97)
+
+Option 5 will output the contents of the array onto a single line once it has been chosen.
+![pic10](https://github.com/IsaOrtiz08/cs303_assignment1/assets/113536391/982da85a-864c-401c-96a5-437dee558755)
