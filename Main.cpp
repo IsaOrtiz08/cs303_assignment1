@@ -92,8 +92,8 @@ void modify_val(int* values, int size, int index) {
 //required function #3: add a new value to the array
 void add_val(int* values, int new_int) {
 	try {
-		// function does not accept values that are less than 1
-		if (new_int < 1)
+		// function does not accept values that are equal to zero
+		if (new_int == 0)
 			throw std::exception("Invalid integer input");
 		int count = 0;
 		// increment through the array using index until a zero is found ( considered an empty position in this circumstance )
